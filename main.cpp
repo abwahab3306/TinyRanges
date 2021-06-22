@@ -2,7 +2,7 @@
 #include <vector>
 #include <utility>
 /*
-  Abdul Wahab Shafiq (S011313) Department	of	Computer Science
+  
 
     *Tiny Ranges Implementation by Abdul Wahab
     * as part of CS409/509 - Advanced C++ Programming course in Ozyegin University
