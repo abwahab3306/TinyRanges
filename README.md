@@ -1,2 +1,4 @@
-# TinyRanges
-Tiny Ranges Implementation by me as a part of the CS409/509 - Advanced C++ Programming course at Ozyegin University. It supports transforming and filtering ranges and, to() method for eagerly rendering the range into a CONTAINER
+*Tiny Ranges Implementation by Abdul Wahab
+    * as part of CS409/509 - Advanced C++ Programming course in Ozyegin University
+    * Supports transforming and filtering ranges and,
+    * to<CONTAINER>() method for eagerly rendering the range into a CONTAINER.*/
